@@ -1,3 +1,3 @@
 # Report
 
-➡️ Open: [charge_integration_report.ipynb](./charge_integration.ipynb)
+➡️ Open: [charge_integration.ipynb](./charge_integration.ipynb)
